@@ -1,0 +1,6 @@
+.vscode/
+autojs APK/
+ssh_config
+cache/
+*.lnk
+*.bak
